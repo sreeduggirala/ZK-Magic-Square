@@ -16,4 +16,4 @@ Upon finding the solution, a valid zero-knowledge proof will be generated. The v
 
 ## Verifier
 
-The verifier can be exported as a Solidity contract, which allows for on-chain provability. (i.e building a cryptocurrency bounty system for verified puzzle solvers)
+The verifier can be exported as a Solidity contract, which allows for on-chain verification (i.e., a cryptocurrency bounty for puzzle solvers).
